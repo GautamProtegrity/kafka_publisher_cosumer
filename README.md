@@ -43,6 +43,9 @@ lastThreePrices: [74.41,56.13,78.10]
 
 # Important Links:
 
+## Accessing Consumer side API
+http://localhost:8080/fetch/{ricCode}
+
 ## How to install Java 8 on windows
 https://www.guru99.com/install-java.html
 
